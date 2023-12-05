@@ -4,5 +4,4 @@
 
 local opt = vim.opt
 
--- 系统剪切板
--- opt.clipboard:append("unnamedplus")
+opt.clipboard = "unnamedplus"
