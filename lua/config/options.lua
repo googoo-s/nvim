@@ -5,3 +5,7 @@
 local opt = vim.opt
 
 opt.clipboard = "unnamedplus"
+vim.opt.conceallevel = 0
+vim.opt.cmdheight = 1
+vim.opt.foldlevel = 99
+vim.o.swapfile = false
