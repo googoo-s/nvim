@@ -9,3 +9,5 @@ vim.opt.conceallevel = 0
 vim.opt.cmdheight = 1
 vim.opt.foldlevel = 99
 vim.o.swapfile = false
+-- vim.o.shellcmdflag = "-c"
+-- vim.o.shell = "/c/Program Files/Git/bin/bash.exe"
